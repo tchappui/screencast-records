@@ -40,27 +40,27 @@
 }
 
 .reveal h1 {
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 .reveal h2 {
-  font-size: 1.5rem;
+  font-size: 2.25rem;
 }
 
 .reveal h3 {
-  font-size: 1.17rem;
+  font-size: 1.75rem;
 }
 
 .reveal h4 {
-  font-size: 1rem;
+  font-size: 1.125rem;
 }
 
 .reveal h5 {
-  font-size: 0.83rem;
+  font-size: 1rem;
 }
 
 .reveal h6 {
-  font-size: 0.67rem;
+  font-size: 0.83rem;
 }
 
 .reveal a {
