@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Quicksand:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
 
 .spaced li {
   margin:0 0 10px 0;
@@ -34,7 +34,7 @@
 }
 
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   color: #fff;
 }
