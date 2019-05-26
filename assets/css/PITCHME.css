@@ -39,6 +39,30 @@
   color: #fff;
 }
 
+.reveal h1 {
+  font-size: 2rem;
+}
+
+.reveal h2 {
+  font-size: 1.5rem;
+}
+
+.reveal h3 {
+  font-size: 1.17rem;
+}
+
+.reveal h4 {
+  font-size: 1rem;
+}
+
+.reveal h5 {
+  font-size: 0.83rem;
+}
+
+.reveal h6 {
+  font-size: 0.67rem;
+}
+
 .reveal a {
   color: white;
 }
