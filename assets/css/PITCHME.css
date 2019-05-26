@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
 
+html {
+  font-size: 100%;
+}
+
 .spaced li {
   margin:0 0 10px 0;
 }
