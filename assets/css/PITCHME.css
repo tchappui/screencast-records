@@ -9,7 +9,7 @@
   color: #fff;
 }
 
-.reveal .gp-menu-bars fa fa-bars {
+.reveal > .gp-menu-bars.fa.fa-bars {
   color: #3F464C;
 }
 
