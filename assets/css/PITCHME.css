@@ -10,7 +10,7 @@
 }
 
 .reveal.gp-menu-bars {
-  color: ##3F464C;
+  color: #3F464C;
 }
 
 .shadow {
@@ -27,6 +27,10 @@
   background: none;
   border: none;
   box-shadow: none;
+}
+
+.controls-arrow {
+  color: #FF7F66;
 }
 
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
