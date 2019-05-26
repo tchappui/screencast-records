@@ -9,6 +9,10 @@
   color: #fff;
 }
 
+.reveal.gp-menu-bars {
+  color: ##3F464C;
+}
+
 .shadow {
   box-shadow:0 14px 20px 0 rgba(0,0,0,0.2),0 10px 24px 0 rgba(0,0,0,0.19) !important;
 }
