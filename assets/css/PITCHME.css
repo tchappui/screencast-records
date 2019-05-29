@@ -8,11 +8,6 @@ html {
   margin:0 0 10px 0;
 }
 
-.reveal {
-  background-color: #3F464C;
-  color: #fff;
-}
-
 .reveal > .gp-menu-bars.fa.fa-bars {
   color: #3F464C;
 }
