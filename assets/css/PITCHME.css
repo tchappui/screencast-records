@@ -9,7 +9,7 @@ html {
 }
 
 .reveal > .gp-menu-bars.fa.fa-bars {
-  color: #3F464C;
+  color: #fff;
 }
 
 .shadow {
@@ -17,7 +17,6 @@ html {
 }
 
 .headline h2 {
-  color: white;
   letter-spacing: 0.05em;
   font-variant: small-caps;
 }
