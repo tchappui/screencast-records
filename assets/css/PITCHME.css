@@ -4,12 +4,8 @@ html {
   font-size: 100%;
 }
 
-.spaced li {
-  margin:0 0 10px 0;
-}
-
 .reveal > .gp-menu-bars.fa.fa-bars {
-  color: #fff;
+  color: #000;
 }
 
 .shadow {
@@ -61,10 +57,14 @@ html {
 }
 
 .reveal a {
-  color: white;
+  color: #F37544;
 }
 
 .reveal a:hover {
-  color: white;
+  color: #F37544;
   font-weight: bold;
+}
+
+#gp-logo img {
+  max-height: 4.5rem;
 }
