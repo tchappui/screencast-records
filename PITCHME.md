@@ -1,14 +1,14 @@
-# Formation Python
+# Créer et manipuler une base de données avec Python et Records
+
+---
+
 
 ---
 @snap[span-100]
-## Thierry Chappuis, PhD
+## Thierry Chappuis
 @snapend
 
 Formateur Python et Professeur à la Haute Ecole d'Ingénierie de Fribourg
 
-**thierry@chappuis.io**
 
----
 
-# Essai
