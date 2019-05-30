@@ -4,19 +4,19 @@
 # Doc: https://gitpitch.com/docs/settings/theme
 #
 theme : black
-
+highlight : monokai-sublime
 #
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-theme-override: assets/css/PITCHME.css
+theme-override: .gitpitch/assets/css/PITCHME.css
 
 #
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : assets/img/logo2.png
-logo-postion : top-left
+# logo : .gitpitch/assets/img/logo.png
+# logo-postion : top-left
 
 #
 # Layout Setting
@@ -28,7 +28,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : ""
+footnote : "© 2019 Chappuis.io - Unlock the hidden complexity of python"
 
 #
 # Published Setting
@@ -40,7 +40,7 @@ published : true
 # Twitter Card Settings [Pro Only]
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "Formation Python"
+title : "Interagir avec une base de données en Python et Records"
 description : "Introduction au langage de programmation python"
 
 # pro-menus-hidden : true

@@ -1,11 +1,40 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
 
+#feedly-mini {
+  display: none;
+}
+
+#notification {
+  display: none;
+}
+
+.text-orange {
+  color: #F37544;
+}
+
+.text-orange-dark {
+  color: #A6441E;
+}
+
+.text-orange-light {
+  color: #FF8E61;
+}
+
+.text-green {
+  color: #0DA68C;
+}
+
+.text-green-light {
+  color: #44F2D5;
+}
+
+
 html {
   font-size: 100%;
 }
 
 .reveal > .gp-menu-bars.fa.fa-bars {
-  color: #000;
+  color: rgba(0,0,0,0);
 }
 
 .shadow {
@@ -17,12 +46,6 @@ html {
   font-variant: small-caps;
 }
 
-.reveal section img {
-  background: none;
-  border: none;
-  box-shadow: none;
-}
-
 .controls-arrow {
   color: #000;
 }
@@ -30,6 +53,7 @@ html {
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
+  text-transform: none;
 }
 
 .reveal h1 {
